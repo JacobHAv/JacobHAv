@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JacobHAv
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning React.js, Next.js
 - 📫 You can contact me on my email jacobhavrda@gmail.com
 
 <!---
